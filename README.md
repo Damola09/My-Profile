@@ -13,7 +13,7 @@ Hi, I'm Damola<br><br>Data Analyst and Graphic Designer, Open to new opportuniti
 # ⚡ Database:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 # 📚 Education:
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=whit)
+![Udemy](https://img.shields.io/badge/Udemy-9E53ED?style=for-the-badge&logo=Udemy&logoColor=whit)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 
 # 📊 GitHub Stats:
